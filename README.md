@@ -1,0 +1,12 @@
+# IBM-Project-26056-1659982406
+AI-powered Nutrition Analyzer for Fitness Enthusiasts
+
+TEAM ID:PNT2022TMID09605
+
+TEAM LEADER:
+AVINASH C
+
+TEAM MEMBERS:
+HARISH D
+KAILASH V
+LAKSMAN S
