@@ -6,7 +6,7 @@ from flask import Flask,render_template,request
 
 app=Flask(__name__)
 
-model=load_model('C:/Users/Malan/Desktop/Flask/nutrition.h5')
+model=load_model('C:/Users/avina/Desktop/Flask/nutrition.h5')
 
 @app.route('/')
 def index():
